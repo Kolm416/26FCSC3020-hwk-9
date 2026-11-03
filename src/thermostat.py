@@ -1,7 +1,7 @@
 '''
 CSC3020 - Software Engineering Fundamentals
 Instructor: Thyago Mota
-Student: 
+Student: Leigha Lennon
 Description: The Thermostat class
 '''
 
